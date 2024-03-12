@@ -4,18 +4,20 @@
 
 ## これはなに？
 
-k8s ingress, gateway api, NEGの機能をL7、L4でそれぞれ比較し、Platform EngineeringにおけるLoad Balancingのベストプラクティスを評価する。
+k8s ingress, gateway api, GCLB NEGの機能をL7、L4でそれぞれ比較し、Platform EngineeringにおけるLoad Balancingのベストプラクティスを評価する。
 
 ---
 
 ## なにをするの？
 
-GCK 環境下で３つのロードバランサを実装→機能評価→それぞれの特徴を挙げて一覧にする
+GCP 環境下で３つのロードバランサを実装→機能評価→それぞれの特徴を挙げて一覧にする
 
 ---
 
 ## ingress
 
-- NGINX Ingress Controller (以降ingress)を使用
+- IngressコントローラはNGINX Ingress Controllerを使用
 
-- GCKにデプロイ
+- GCPにデプロイ
+
+- イロハに
