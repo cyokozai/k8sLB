@@ -14,7 +14,7 @@ GCP 環境下で３つのロードバランサを実装→機能評価→それ�
 
 ---
 
-## ingress
+## k8s ingress
 
 - IngressコントローラはNGINX Ingress Controllerを使用
 

@@ -3,7 +3,7 @@ provider "kubernetes" {
 }
 
 
-resource "kubernetes_ingress" "example_ingress" {
+resource "kubernetes_ingress" "http" {
     metadata {
         name = "minimal-ingress"
         annotations = {
@@ -12,14 +12,14 @@ resource "kubernetes_ingress" "example_ingress" {
     }
 
     spec {
-        # Remove the ingress_class attribute
-        # ingress_class = "nginx-example"
+        Remove the ingress_class attribute
+        ingress_class = "nginx-example"
 
         rule {
             http {
                 path {
                     path = "/testpath"
-                    #   path_type = "Prefix"
+                    path_type = "Prefix"
                 }
                 backend {
                     service_name = "test"
