@@ -21,7 +21,7 @@ spec:
           containerPort: 8080
         - name: "app2-port"
           containerPort: 8081
-        # resources:
+        resources:
         #   limits:
         #     cpu: "2"
         #     memory: "4096Mi"
