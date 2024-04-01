@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: summer-dep
+  name: summer
   namespace: default
 spec:
   replicas: 2
@@ -15,9 +15,9 @@ spec:
     spec:
       containers:
       - name: summer
-        image: nginxdemos/nginx-hello:plain-text
+        image: nginx:latest
         ports:
-        - name: http
+        - name: summer-http
           containerPort: 8080
 ---
 apiVersion: v1
@@ -26,11 +26,10 @@ metadata:
   name: summer-svc
   namespace: default
 spec: 
-  type: ClusterIP
   selector:
     app: summer
   ports:
-  - name: app-port
+  - name: summer-port
     protocol: TCP
     port: 80
     targetPort: 8080
@@ -38,7 +37,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: winter-dep
+  name: winter
   namespace: default
 spec:
   replicas: 2
@@ -52,10 +51,10 @@ spec:
     spec:
       containers:
       - name: winter
-        image: nginxdemos/nginx-hello:plain-text
+        image: nginx:latest
         ports:
-        - name: http
-          containerPort: 8080
+        - name: winter-http
+          containerPort: 8081
 ---
 apiVersion: v1
 kind: Service
@@ -63,11 +62,10 @@ metadata:
   name: winter-svc
   namespace: default
 spec: 
-  type: ClusterIP
   selector:
     app: winter
   ports:
-  - name: app-port
+  - name: winter-port
     protocol: TCP
     port: 80
-    targetPort: 8080
+    targetPort: 8081
