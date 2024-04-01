@@ -1,11 +1,11 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: seasons-nginx-config
-  namespace: ingress-nginx
-data:
-  resolver-addresses: "34.85.19.247"
----
+# apiVersion: v1
+# kind: ConfigMap
+# metadata:
+#   name: seasons-nginx-config
+#   namespace: ingress-nginx
+# data:
+#   resolver-addresses: "34.85.19.247"
+# ---
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
@@ -14,9 +14,10 @@ metadata:
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
-  ingressClassName: seasons-nginx-ingress
+  ingressClassName: nginx
   rules:
-    - http:
+    - host: ingress-seasons.com
+      http:
         paths:
           - path: /summer
             pathType: Prefix
