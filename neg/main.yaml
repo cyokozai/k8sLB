@@ -25,6 +25,8 @@ kind: Service
 metadata:
   name: summer-svc
   namespace: default
+  annotations:
+    cloud.google.com/neg: '{"ingress": true}'
 spec: 
   type: ClusterIP
   selector:
@@ -62,6 +64,8 @@ kind: Service
 metadata:
   name: winter-svc
   namespace: default
+  annotations:
+    cloud.google.com/neg: '{"ingress": true}'
 spec: 
   type: ClusterIP
   selector:

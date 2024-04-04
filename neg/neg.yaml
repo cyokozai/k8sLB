@@ -1,0 +1,24 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: neg-ingress
+  namespace: default
+spec:
+  rules:
+  - host: ingress-seasons.com
+    http:
+      paths:
+      - path: /summer
+        pathType: Prefix
+        backend:
+          service:
+            name: summer-svc
+            port:
+              number: 80
+      - path: /winter
+        pathType: Prefix
+        backend:
+          service:
+            name: winter-svc
+            port:
+              number: 80
