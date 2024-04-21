@@ -15,10 +15,10 @@ spec:
             name: summer-svc
             port:
               number: 80
-      - path: /winter
-        pathType: Prefix
-        backend:
-          service:
-            name: winter-svc
-            port:
-              number: 80
+      # - path: /winter
+      #   pathType: Prefix
+      #   backend:
+      #     service:
+      #       name: winter-svc
+      #       port:
+      #         number: 80

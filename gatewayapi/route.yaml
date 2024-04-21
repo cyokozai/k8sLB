@@ -10,13 +10,13 @@ spec:
   rules:
   - matches:
     - path:
-        value: /summer
+        value: /
     backendRefs:
-    - name: summer
-      port: 80
-  - matches:
-    - path:
-        value: /winter
-    backendRefs:
-    - name: winter
-      port: 80
+      - name: summer-svc
+        port: 80
+  # - matches:
+    # - path:
+    #     value: /winter
+    # backendRefs:
+    #   - name: winter-svc
+    #     port: 80

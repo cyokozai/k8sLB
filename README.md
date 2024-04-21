@@ -21,3 +21,6 @@ GCP 環境下で３つのロードバランサを実装→機能評価→それ�
 - GCPにデプロイ
 
 - イロハに
+- `gcloud components update`
+- `gcloud container clusters list`
+- `kubectl describe pods `
