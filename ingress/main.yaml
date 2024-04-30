@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: summer
-        image: nginx:latest
+        image: gcr.io/google-samples/hello-app:2.0
         ports:
         - name: summer-http
           containerPort: 8080
@@ -52,7 +52,7 @@ spec:
 #     spec:
 #       containers:
 #       - name: winter
-#         image: nginx:latest
+#         image: gcr.io/google-samples/hello-app:2.0
 #         ports:
 #         - name: winter-http
 #           containerPort: 8081
