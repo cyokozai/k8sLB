@@ -14,9 +14,3 @@ spec:
     backendRefs:
       - name: summer-svc
         port: 80
-  # - matches:
-    # - path:
-    #     value: /winter
-    # backendRefs:
-    #   - name: winter-svc
-    #     port: 80
