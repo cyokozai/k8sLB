@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: ingress-seasons.com
+    - host: summerseason.com
       http:
         paths:
           - path: /

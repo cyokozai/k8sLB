@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   rules:
-  - host: ingress-seasons.com
+  - host: summerseason.com
     http:
       paths:
       - path: /

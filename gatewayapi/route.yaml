@@ -6,7 +6,7 @@ spec:
   parentRefs:
   - name: gateway
   hostnames:
-  - "ingress-seasons.com"
+  - "summerseason.com"
   rules:
   - matches:
     - path:
