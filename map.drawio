@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="0jjvTiTDc35Jfbm6MPWR" name="ingress">
-        <mxGraphModel dx="1195" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="920" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2153,7 +2153,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="sP8YPjlFCyVYHnI-AoZG" name="figure">
-        <mxGraphModel dx="1406" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="920" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2191,7 +2191,7 @@
                         <mxRectangle width="160" height="160" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="cMR9zkfu3UhbF4PBDdf8-9" value="消防士&lt;div&gt;&lt;br&gt;&lt;div&gt;オンコール対応&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
+                <mxCell id="cMR9zkfu3UhbF4PBDdf8-9" value="消防士&lt;div&gt;&lt;br&gt;&lt;div&gt;リソースの監視とオンコール&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
                     <mxGeometry x="240" width="160" height="160" as="geometry">
                         <mxRectangle width="160" height="160" as="alternateBounds"/>
                     </mxGeometry>
@@ -2204,12 +2204,12 @@
                         <mxRectangle width="80" height="160" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="cMR9zkfu3UhbF4PBDdf8-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
+                <mxCell id="cMR9zkfu3UhbF4PBDdf8-12" value="建築士&lt;br&gt;&lt;br&gt;信頼性, 拡張性, セキュリティに基づいて新しいシステムの設計に参加" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
                     <mxGeometry x="80" width="160" height="160" as="geometry">
                         <mxRectangle width="160" height="160" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="cMR9zkfu3UhbF4PBDdf8-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
+                <mxCell id="cMR9zkfu3UhbF4PBDdf8-13" value="鍛治職人&lt;br&gt;&lt;br&gt;トイルを特定し自動化する&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
                     <mxGeometry x="240" width="160" height="160" as="geometry">
                         <mxRectangle width="160" height="160" as="alternateBounds"/>
                     </mxGeometry>
