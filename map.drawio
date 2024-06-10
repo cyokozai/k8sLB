@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="0jjvTiTDc35Jfbm6MPWR" name="ingress">
-        <mxGraphModel dx="920" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="920" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -2153,12 +2153,12 @@
         </mxGraphModel>
     </diagram>
     <diagram id="sP8YPjlFCyVYHnI-AoZG" name="figure">
-        <mxGraphModel dx="920" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1150" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="cMR9zkfu3UhbF4PBDdf8-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;aspect=fixed;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="40" width="400" height="400" as="geometry"/>
+                    <mxGeometry x="20" y="400" width="400" height="400" as="geometry"/>
                 </mxCell>
                 <mxCell id="cMR9zkfu3UhbF4PBDdf8-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cMR9zkfu3UhbF4PBDdf8-1" vertex="1">
                     <mxGeometry width="400" height="80" as="geometry"/>
@@ -2213,6 +2213,54 @@
                     <mxGeometry x="240" width="160" height="160" as="geometry">
                         <mxRectangle width="160" height="160" as="alternateBounds"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-2" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="480" y="280" as="sourcePoint"/>
+                        <mxPoint x="1120" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-3" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="800" y="520" as="sourcePoint"/>
+                        <mxPoint x="800" y="40" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-4" value="&lt;span style=&quot;&quot;&gt;システム関連&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="755" y="10" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-5" value="&lt;span style=&quot;&quot;&gt;デベロッパー&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="755" y="520" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-6" value="&lt;span style=&quot;&quot;&gt;ベンダーとプロセス&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="265" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-8" value="&lt;span style=&quot;&quot;&gt;コードによるオーダーメイド&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+                    <mxGeometry x="1045" y="265" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-10" value="&lt;span style=&quot;&quot;&gt;管理者&lt;/span&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;サービス基盤の保守と&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;プロビジョニング&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="120" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-11" value="消防士&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;リソースの監視とオンコール&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="120" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-12" value="&lt;span style=&quot;&quot;&gt;建築士&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;信頼性, 拡張性, セキュリティに基づいて&lt;br&gt;新しいシステムの設計に参加&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="360" width="240" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-14" value="&lt;span style=&quot;&quot;&gt;鍛治職人&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;トイルを特定し自動化する&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="895" y="360" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-15" value="&lt;h1&gt;SRE&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="208" width="70" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;rotation=-30;" vertex="1" parent="1">
+                    <mxGeometry x="498.6" y="109.47" width="510" height="301.39" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-17" value="&lt;h1&gt;&lt;font color=&quot;#00cc00&quot;&gt;PE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="390" width="60" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="Is-Bg4t7oavuXqXtEkkK-16" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=40;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="260" width="440" height="240" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
