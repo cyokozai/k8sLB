@@ -1,4 +1,4 @@
-# Platform Engineeringの視点から考えるKubernetes Load Balancing の比較
+# Kubernetes Load Balancer for Platform Engineering
 
 ## **なぜPlatform Engineeringは注目されているか？**
 
