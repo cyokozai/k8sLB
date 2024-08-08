@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-06-26T07:53:49.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="1O3YPe9xfDCcDbg1NcPQ" version="24.5.3" type="device" pages="9">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5" pages="9">
   <diagram id="0jjvTiTDc35Jfbm6MPWR" name="ingress">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2153,24 +2153,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sP8YPjlFCyVYHnI-AoZG" name="figure">
-    <mxGraphModel dx="977" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-32" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2720" y="240" width="720" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-16" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2761" y="520.3876459062803" as="sourcePoint" />
+            <mxPoint x="3401" y="520.3876459062803" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-17" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3081" y="760.3876459062803" as="sourcePoint" />
+            <mxPoint x="3081" y="280.3876459062803" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-26" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;rotation=-45;" parent="1" vertex="1">
+          <mxGeometry x="2815.51" y="359.09" width="435.46" height="330.3" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-28" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=40;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3100" y="350" width="290" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="21" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="21" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1938.5" y="640" width="163" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-28" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Endpoint&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(Pod IP)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fO_PUxPz_xvqEZ6EtG9V-32">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-28" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Endpoint&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(Pod IP)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fO_PUxPz_xvqEZ6EtG9V-32" vertex="1">
           <mxGeometry x="3" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-31" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Endpoint&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(Pod IP)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fO_PUxPz_xvqEZ6EtG9V-32">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-31" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Network Endpoint&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(Pod IP)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fO_PUxPz_xvqEZ6EtG9V-32" vertex="1">
           <mxGeometry y="3" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-2" value="Product mindset" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-2" value="Product mindset" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1240" y="80" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-14" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;鍛治職人&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;トイルを特定し自動化する&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="895" y="400" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cMR9zkfu3UhbF4PBDdf8-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;aspect=fixed;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="20" y="400" width="400" height="400" as="geometry" />
@@ -2183,12 +2207,12 @@
             <mxRectangle width="80" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;システム関連&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-2" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-4" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;システム関連&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="cMR9zkfu3UhbF4PBDdf8-2" vertex="1">
           <mxGeometry x="80" width="160" height="80" as="geometry">
             <mxRectangle width="160" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-5" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;デベロッパー&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-2" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-5" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;デベロッパー&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="cMR9zkfu3UhbF4PBDdf8-2" vertex="1">
           <mxGeometry x="240" width="160" height="80" as="geometry">
             <mxRectangle width="160" height="80" as="alternateBounds" />
           </mxGeometry>
@@ -2196,17 +2220,17 @@
         <mxCell id="cMR9zkfu3UhbF4PBDdf8-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cMR9zkfu3UhbF4PBDdf8-1" vertex="1">
           <mxGeometry y="80" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;ベンダーとプロセス&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;horizontal=0;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-7" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;ベンダーとプロセス&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;horizontal=0;fontSize=16;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
           <mxGeometry width="80" height="160" as="geometry">
             <mxRectangle width="80" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-8" value="&lt;font face=&quot;Zen Kaku Gothic New&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot;&gt;管理者&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;QIs7pxKOYINvXIFS7WhG&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;サービス基盤の保守と&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;プロビジョニング&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Admin&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;サービス基盤の保守と&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;プロビジョニング&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
           <mxGeometry x="80" width="160" height="160" as="geometry">
             <mxRectangle width="160" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-9" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;消防士&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;リソースの監視とオンコール&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-9" value="&lt;font style=&quot;font-size: 24px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Firefighter&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;リソースの監視と&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;オンコール&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-6" vertex="1">
           <mxGeometry x="240" width="160" height="160" as="geometry">
             <mxRectangle width="160" height="160" as="alternateBounds" />
           </mxGeometry>
@@ -2214,76 +2238,31 @@
         <mxCell id="cMR9zkfu3UhbF4PBDdf8-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="cMR9zkfu3UhbF4PBDdf8-1" vertex="1">
           <mxGeometry y="240" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;コードによるオーダーメイド&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;horizontal=0;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-11" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;コードによる&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;オーダーメイド&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;horizontal=0;fontSize=16;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
           <mxGeometry width="80" height="160" as="geometry">
             <mxRectangle width="80" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;建築士&lt;br&gt;&lt;br&gt;信頼性, 拡張性, セキュリティに基づいて新しいシステムの設計に参加&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-12" value="&lt;font style=&quot;font-size: 24px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Architect&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;br&gt;信頼性, 拡張性, セキュリティに基づいて新しいシステムの&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;設計に参加&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
           <mxGeometry x="80" width="160" height="160" as="geometry">
             <mxRectangle width="160" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMR9zkfu3UhbF4PBDdf8-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;鍛治職人&lt;br&gt;&lt;br&gt;トイルを特定し自動化する&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
+        <mxCell id="cMR9zkfu3UhbF4PBDdf8-13" value="&lt;font style=&quot;font-size: 24px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Toolsmith&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;br&gt;トイルを特定し&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;自動化する&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="cMR9zkfu3UhbF4PBDdf8-10" vertex="1">
           <mxGeometry x="240" width="160" height="160" as="geometry">
             <mxRectangle width="160" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-2" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="320" as="sourcePoint" />
-            <mxPoint x="1120" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-3" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="560" as="sourcePoint" />
-            <mxPoint x="800" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-4" value="&lt;span style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;システム関連&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="750" y="50" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-5" value="&lt;span style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;デベロッパー&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="750" y="560" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-6" value="&lt;span style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;ベンダーとプロセス&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="400" y="305" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-8" value="&lt;span style=&quot;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;コードによるオーダーメイド&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="305" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-10" value="&lt;span style=&quot;&quot;&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot;&gt;管理者&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font face=&quot;vLrVpqfXTjkHf86zDqj8&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;サービス基盤の保守と&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;プロビジョニング&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="570" y="160" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;消防士&lt;/font&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font face=&quot;edhg1X69KzFX66cXptsa&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;リソースの監視とオンコール&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="400" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;建築士&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;信頼性, 拡張性, セキュリティに基づいて&lt;br&gt;新しいシステムの設計に参加&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="860" y="155" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-15" value="&lt;h1&gt;SRE&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="1" vertex="1">
-          <mxGeometry x="680" y="248" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;rotation=-45;" parent="1" vertex="1">
-          <mxGeometry x="545.18" y="121.99" width="473.37" height="348.14" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-17" value="&lt;h1&gt;&lt;font color=&quot;#00cc00&quot;&gt;PE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="1" vertex="1">
-          <mxGeometry x="840" y="430" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Is-Bg4t7oavuXqXtEkkK-16" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=40;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="810" y="210" width="270" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-9" value="Customer focus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-9" value="Customer focus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1440" y="80" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-10" value="Platform backlog" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-10" value="Platform backlog" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1340" y="280" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-8" value="" style="group;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" connectable="0" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-8" value="" style="group;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1340" y="160" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="fO_PUxPz_xvqEZ6EtG9V-8">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="fO_PUxPz_xvqEZ6EtG9V-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="80" as="sourcePoint" />
             <mxPoint x="80" as="targetPoint" />
@@ -2292,7 +2271,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="fO_PUxPz_xvqEZ6EtG9V-8">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="fO_PUxPz_xvqEZ6EtG9V-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="80" as="sourcePoint" />
             <mxPoint x="80" y="160" as="targetPoint" />
@@ -2301,7 +2280,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="fO_PUxPz_xvqEZ6EtG9V-8">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="fO_PUxPz_xvqEZ6EtG9V-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" as="sourcePoint" />
             <mxPoint x="160" y="80" as="targetPoint" />
@@ -2310,7 +2289,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="fO_PUxPz_xvqEZ6EtG9V-8">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="fO_PUxPz_xvqEZ6EtG9V-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="160" as="sourcePoint" />
             <mxPoint y="80" as="targetPoint" />
@@ -2319,10 +2298,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Platform Engineer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fO_PUxPz_xvqEZ6EtG9V-8">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-11" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Platform Engineer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="fO_PUxPz_xvqEZ6EtG9V-8" vertex="1">
           <mxGeometry x="20" y="65" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-12" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-12" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;startArrow=oval;startFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="70" as="sourcePoint" />
             <mxPoint x="1420" y="160" as="targetPoint" />
@@ -2332,10 +2311,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Communities &amp;amp; Practices&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;bgVhrebAJC1QqiRmvclM&quot;&gt;&lt;b&gt;SRE, DevOps, DORA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-13" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Communities &amp;amp; Practices&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;bgVhrebAJC1QqiRmvclM&quot;&gt;&lt;b&gt;SRE, DevOps, DORA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1280" y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-14" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;startArrow=oval;startFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-15">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-14" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;startArrow=oval;startFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="400" as="sourcePoint" />
             <mxPoint x="1420" y="320" as="targetPoint" />
@@ -2345,61 +2324,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-15" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Contribute to value streams&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-15" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Contribute to value streams&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1210" y="410" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-16" value="Ship" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-16" value="Ship" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="1380" y="310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-17" value="Develop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-17" value="Develop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="1430" y="305" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-18" value="Research" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-18" value="Research" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="1490" y="205" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-19" value="Observe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-19" value="Observe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="1470" y="170" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-20" value="Study" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-20" value="Study" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="1395" y="130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-21" value="Improve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-21" value="Improve" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Zen Kaku Gothic New;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DZen%2BKaku%2BGothic%2BNew;" parent="1" vertex="1">
           <mxGeometry x="1285" y="200" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-22" target="fO_PUxPz_xvqEZ6EtG9V-23">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-22" target="fO_PUxPz_xvqEZ6EtG9V-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-22" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;VIP&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-22" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;VIP&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-23" target="fO_PUxPz_xvqEZ6EtG9V-24">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-23" target="fO_PUxPz_xvqEZ6EtG9V-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-23" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Forwarding&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Rule&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-23" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Forwarding&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Rule&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-24" target="fO_PUxPz_xvqEZ6EtG9V-25">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-24" target="fO_PUxPz_xvqEZ6EtG9V-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-24" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Target HTTP Proxy&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-24" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Target HTTP Proxy&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-25" target="fO_PUxPz_xvqEZ6EtG9V-26">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-25" target="fO_PUxPz_xvqEZ6EtG9V-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-25" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;URL Map&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-25" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;URL Map&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-26" target="fO_PUxPz_xvqEZ6EtG9V-27">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-26" target="fO_PUxPz_xvqEZ6EtG9V-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-26" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Backend&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Service&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-26" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Backend&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Service&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-27" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;NEG&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-27" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;NEG&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1960" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-27" target="fO_PUxPz_xvqEZ6EtG9V-31">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-27" target="fO_PUxPz_xvqEZ6EtG9V-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2020" y="630" />
@@ -2407,16 +2386,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-41" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Firewall Rules&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-41" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Firewall Rules&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1800" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-42" target="fO_PUxPz_xvqEZ6EtG9V-26">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-42" target="fO_PUxPz_xvqEZ6EtG9V-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-42" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GCE Health Check&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-42" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GCE Health Check&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1800" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-42" target="fO_PUxPz_xvqEZ6EtG9V-31">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fO_PUxPz_xvqEZ6EtG9V-42" target="fO_PUxPz_xvqEZ6EtG9V-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1820" y="650" as="sourcePoint" />
             <mxPoint x="1870" y="600" as="targetPoint" />
@@ -2426,59 +2405,213 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-45" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1770" y="280" width="20" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="2110" y="280" width="20" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-48" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1770" y="580" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="2110" y="580" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-50" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Ingress with NEGs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-50" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Ingress with NEGs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1640" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-51" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Standalone NEGs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-51" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Standalone NEGs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2140" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.496;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fO_PUxPz_xvqEZ6EtG9V-50">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.496;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="fO_PUxPz_xvqEZ6EtG9V-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1700" y="400" as="sourcePoint" />
             <mxPoint x="1740" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.502;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fO_PUxPz_xvqEZ6EtG9V-51">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.502;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="fO_PUxPz_xvqEZ6EtG9V-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2200" y="400" as="sourcePoint" />
             <mxPoint x="2210" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-54" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed by&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Ingress Controller&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-54" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed by&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Ingress Controller&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1640" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-56" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed manually or&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;by external system&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-56" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed manually or&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;by external system&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2135" y="400" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-57" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed by&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;NEG Controller&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-57" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed by&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;NEG Controller&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1650" y="610" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-58" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed by&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;NEG Controller&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-58" value="&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;Managed by&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Zen Kaku Gothic New&quot;&gt;NEG Controller&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2150" y="610" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.496;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fO_PUxPz_xvqEZ6EtG9V-54">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.496;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="fO_PUxPz_xvqEZ6EtG9V-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1699.66" y="610" as="sourcePoint" />
             <mxPoint x="1699.66" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.496;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="fO_PUxPz_xvqEZ6EtG9V-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.496;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2199.66" y="610" as="sourcePoint" />
             <mxPoint x="2200" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-1" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Service&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2400" y="61" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-2" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Pod&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2400" y="141" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;Kubernetes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2405" y="21" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-4" value="&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Network Endpoint Group ( NEG )&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="2840" y="60.99000000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-5" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;font style=&quot;background-color: initial; font-size: 14px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;Google Compute&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; font-size: 14px;&quot;&gt;Enginge&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="2835" y="15.989999999999995" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="2580" y="20.989999999999995" width="200" height="180.01" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-7" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;GKE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="20.989999999999995" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-8" value="&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Network Endpoint&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="2840" y="140.99" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png;clipPath=inset(10.13% 29.67% 12.03% 29.33%);" parent="1" vertex="1">
+          <mxGeometry x="2960" y="25.989999999999995" width="30.01" height="30.01" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
+          <mxGeometry x="2510" y="25.989999999999995" width="31.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-14" value="&lt;font style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;NEG Controller&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="2620" y="100.99000000000001" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GZjhlOERp8vykf_81uhr-1" target="GZjhlOERp8vykf_81uhr-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2330" y="181" as="sourcePoint" />
+            <mxPoint x="2380" y="131" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2550" y="81" />
+              <mxPoint x="2580" y="111" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="GZjhlOERp8vykf_81uhr-2" target="GZjhlOERp8vykf_81uhr-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2530" y="91" as="sourcePoint" />
+            <mxPoint x="2630" y="121" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2550" y="161" />
+              <mxPoint x="2580" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="GZjhlOERp8vykf_81uhr-14" target="GZjhlOERp8vykf_81uhr-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2750" y="140.99" as="sourcePoint" />
+            <mxPoint x="2850" y="170.99" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2780" y="131" />
+              <mxPoint x="2810" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GZjhlOERp8vykf_81uhr-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="GZjhlOERp8vykf_81uhr-14" target="GZjhlOERp8vykf_81uhr-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2760" y="105.99000000000001" as="sourcePoint" />
+            <mxPoint x="2860" y="135.99" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2780" y="111" />
+              <mxPoint x="2810" y="81" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-15" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;トイルを特定し自動化する&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="3131" y="610.3876459062803" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;システム関連&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="3016" y="245.38764590628028" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;デベロッパー&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="3016" y="755.3876459062803" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;ベンダーとプロセス&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="2651" y="500.38764590628034" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;コードによるオーダーメイド&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="3286" y="500.38764590628034" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-22" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; background-color: initial;&quot;&gt;サービス基盤の保守と&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;プロビジョニング&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2811" y="365.3876459062803" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-23" value="&lt;span style=&quot;font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; background-color: initial;&quot;&gt;リソースの監視とオンコール&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2781" y="610.3876459062803" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-24" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;信頼性, 拡張性, セキュリティ&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;に&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; background-color: initial;&quot;&gt;基づいて&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; background-color: initial;&quot;&gt;新しいシステムの&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;設計に参加&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3116" y="350.3876459062803" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-25" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;SRE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="1" vertex="1">
+          <mxGeometry x="2930" y="449.99764590628035" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wuxcLDkNfHd45s4b7Ha3-27" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px;&quot; color=&quot;#00cc00&quot;&gt;PE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="1" vertex="1">
+          <mxGeometry x="3240" y="500.38764590628034" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-1" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="279.00000000000006" as="sourcePoint" />
+            <mxPoint x="1080" y="279.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-2" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="519" as="sourcePoint" />
+            <mxPoint x="760" y="39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=40;rotation=-45;" parent="1" vertex="1">
+          <mxGeometry x="494.5100000000002" y="117.70235409371969" width="435.46" height="330.3" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-4" value="" style="ellipse;whiteSpace=wrap;html=1;opacity=40;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="779" y="108.61235409371972" width="290" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-5" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 24px; text-wrap: wrap;&quot;&gt;&lt;b&gt;Toolsmith&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;トイルを特定し自動化する&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="810" y="344.00000000000006" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;システム関連&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="695" y="4" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;デベロッパー&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="695" y="514" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;ベンダーとプロセス&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="330" y="259.00000000000006" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;コードによるオーダーメイド&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="965" y="259.00000000000006" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-10" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;Admin&lt;/span&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;vLrVpqfXTjkHf86zDqj8&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;span class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;font-weight:600&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;サービス基盤の保守と&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;プロビジョニング&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="490" y="99" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-11" value="&lt;span style=&quot;font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; font-size: 24px; text-wrap: wrap;&quot;&gt;&lt;b&gt;Firefighter&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;edhg1X69KzFX66cXptsa&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;リソースの監視とオンコール&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="460" y="344.00000000000006" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-12" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;font style=&quot;text-wrap: wrap; font-size: 24px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;b&gt;Architect&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;font-size: 24px; text-wrap: wrap;&quot;&gt;&lt;b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;信頼性, 拡張性, セキュリティ&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;に&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 20px; font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; background-color: initial;&quot;&gt;基づいて&lt;/span&gt;&lt;span style=&quot;font-size: 20px; font-family: &amp;quot;Zen Kaku Gothic New&amp;quot;; background-color: initial;&quot;&gt;新しいシステムの&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New&quot; face=&quot;Zen Kaku Gothic New&quot;&gt;&lt;span style=&quot;&quot;&gt;設計に参加&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="795" y="84" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-13" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;SRE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="1" vertex="1">
+          <mxGeometry x="609" y="208.61000000000007" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rvwSB01DGsJpIMh6V7bN-14" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px;&quot; color=&quot;#00cc00&quot;&gt;PE&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6666FF;" parent="1" vertex="1">
+          <mxGeometry x="919" y="259.00000000000006" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUGoyv2fw0O5c6EF_JLr-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png;clipPath=inset(10.13% 29.67% 12.03% 29.33%);" vertex="1" parent="1">
+          <mxGeometry x="2709.99" y="25.989999999999995" width="30.01" height="30.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
